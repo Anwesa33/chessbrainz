@@ -1,0 +1,25 @@
+$('.owl-testi').owlCarousel({
+  loop:true,
+  margin:10,
+  nav:true,
+  dots:true,
+  items:1,
+})
+
+$('.owl-carousel').owlCarousel({
+  loop:true,
+  nav:true,
+  responsive:{
+      0:{
+          items:1
+      },
+      576:{
+          items:2,
+          margin:10
+      },
+      1099:{
+        items:2,
+        margin:62,
+      }
+  }
+})

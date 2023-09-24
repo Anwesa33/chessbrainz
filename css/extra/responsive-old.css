@@ -1,0 +1,3317 @@
+@media screen and (max-width: 1599px) {
+  .foun_info {
+    padding: 32px 0px !important;
+  }
+
+  .background_border {
+    height: 450px;
+  }
+
+  .background_border1 {
+    height: 450px;
+  }
+
+}
+
+/* ------------------1599px-----------------  */
+@media screen and (min-width: 1400px){
+  nav.navbar .container,
+  .banner .container{
+    max-width: 1270px;
+  }
+
+}
+@media screen and (max-width: 1499px) {
+  .team-member .left-shape {
+    top: 701px;
+    width: 75px;
+    height: 75px;
+  }
+}
+
+/* ------------------1499px-----------------  */
+
+@media screen and (max-width: 1399px) {
+  .background_border {
+    height: 450px;
+  }
+
+  .background_border1 {
+    height: 450px;
+  }
+
+  .pride_image img {
+    width: 56%;
+  }
+
+  .OurPride_sub1 .card1 h3 {
+    right: 6%;
+  }
+
+  .pride_image {
+    left: -20px;
+  }
+
+  .card1 {
+    height: 508px;
+    background-position: 75% -30%, 100%;
+  }
+
+  /* max-width:1399px */
+  .pride_flag {
+    right: -62px;
+  }
+
+  .why-part-img {
+    width: 354px;
+    height: 175px;
+  }
+
+  .foun_info {
+    padding: 16px 0px !important;
+  }
+
+  .welcome {
+    padding-top: 15px;
+  }
+
+  .back_img {
+    display: none;
+  }
+
+  .back_img1 {
+    display: none;
+  }
+
+  .blue-box-btn a {
+    width: 140px;
+  }
+
+  .service2 .chess-bott-serv2 {
+    width: 140px;
+    height: 140px;
+  }
+
+  .team-member .left-shape {
+    top: 741px;
+  }
+}
+
+/* ------------------1399px-----------------  */
+
+@media screen and (max-width: 1299px) {
+  .FQ_icon1 {
+    left: 98%;
+    width: 7%;
+  }
+
+  .FQ_icon2 {
+    left: -5%;
+    width: 7%;
+  }
+
+  .Gallery_title {
+    font-size: 53px;
+    margin-top: 3rem;
+  }
+
+  .background_border {
+    height: 350px;
+  }
+
+  .background_border1 {
+    height: 350px;
+  }
+
+  .pride_flag {
+    right: -62px;
+  }
+
+  .bnft-img {
+    top: 37px;
+    width: 431px;
+    height: 250px;
+  }
+
+  .com-chess::before {
+    height: 260px;
+    top: 38px;
+  }
+
+  .foun_info {
+    padding: 4px 0px !important;
+  }
+
+  .foun_social_media {
+    margin-top: 12px;
+  }
+
+  .icons_1 i {
+    font-size: 24px;
+  }
+
+  .foun_desc {
+    margin-top: 8px !important;
+  }
+
+  .foun_nam {
+    margin-top: 4px !important;
+    font-size: 36px !important;
+  }
+
+  .blue-box-btn a {
+    width: 130px;
+  }
+
+  .welcome h1 {
+    font-size: 72px;
+  }
+
+  .courses-1-right a {
+    font-size: 14px;
+    padding: 11px 15px;
+  }
+
+  .service1 {
+    padding-top: 120px;
+  }
+
+  .service2 .top-serv2 {
+    top: 253px;
+    width: 365px;
+    height: 200px;
+  }
+
+  .service2::after {
+    width: 100px;
+    height: 100px;
+  }
+
+  .service2 .chess-bott-serv2 {
+    width: 120px;
+    height: 120px;
+  }
+
+  .team-member h1::after {
+    right: 32%;
+  }
+
+  .team-member h1::before {
+    left: 32%;
+  }
+}
+
+/* ------------------1299px-----------------  */
+
+@media screen and (max-width: 1199px) {
+  .Blog .sub_image1 {
+    margin-top: 70px;
+  }
+
+  .pride_image img {
+    width: 56%;
+  }
+
+  .OurPride_sub1 .card1 h3 {
+    right: 8%;
+    font-size: 25px;
+  }
+
+  .pride_image {
+    left: -20px;
+  }
+
+  .pride_flag img {
+    width: 100px;
+  }
+
+  .pride_flag {
+    right: -44px;
+  }
+
+  .card1 {
+    height: 508px;
+    background-position: 75% -30%, 9%;
+    border-bottom-right-radius: 26px;
+  }
+
+  .OurPride_sub1 .card1 h5 {
+    right: 7%;
+    font-size: 18px;
+  }
+
+  .serv-1-left h1 {
+    font-size: 26px;
+    margin-top: 0px;
+  }
+
+  .serv-1-left h1::before {
+    left: -16px;
+    width: 10px;
+    height: 10px;
+  }
+
+  .serv-1-left h1::after {
+    width: 185px;
+  }
+
+  .serv-1-left h2 {
+    font-size: 18px;
+    margin-top: 5px;
+    margin-bottom: 18px;
+  }
+
+  .serv-1-left a {
+    font-size: 18px;
+  }
+
+  .bnft h2 {
+    font-size: 28px;
+    padding-top: 47px;
+  }
+
+  .bnft h4 {
+    margin-top: 10px;
+  }
+
+  .bnft-img {
+    top: 31px;
+    width: 360px;
+    height: 210px;
+  }
+
+  .why-part {
+    padding-top: 65px;
+  }
+
+  .why-part-img {
+    width: 296px;
+    height: 169px;
+  }
+
+  .why-rt h2 {
+    font-size: 25px;
+    line-height: 34px;
+    margin-bottom: 0px;
+    margin-left: -38px;
+  }
+
+  .how-it-help {
+    padding-top: 55px;
+    padding-bottom: 38px;
+  }
+
+  .how-it-help h3 {
+    font-size: 28px;
+    line-height: 34px;
+  }
+
+  .chess-rt h2 {
+    font-size: 26px !important;
+    line-height: 34px !important;
+  }
+
+  .chess-rt p {
+    font-size: 14px !important;
+    line-height: 20px !important;
+    margin-top: 14px !important;
+    margin-bottom: 26px !important;
+  }
+
+  .chess-rt a {
+    padding: 11px 36px !important;
+    font-size: 14px !important;
+    line-height: 20px !important;
+  }
+
+  .com-chess::before {
+    height: 235px;
+    top: 26px;
+  }
+
+  .com-chess {
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 30px;
+  }
+
+  .chess-rt {
+    margin-left: 23px;
+  }
+
+  .foun_info {
+    padding: 0px 0px !important;
+  }
+
+  .foun_social_media {
+    margin-top: 12px;
+  }
+
+  .icons_1 i {
+    font-size: 24px;
+  }
+
+  .foun_desc {
+    margin-top: 8px !important;
+  }
+
+  .foun_nam {
+    margin-top: 4px !important;
+    font-size: 36px !important;
+  }
+
+  .welcome {
+    padding-top: 0px;
+  }
+
+  .back_img {
+    display: none;
+  }
+
+  .back_img1 {
+    display: none;
+  }
+
+  .service2 .top-serv2 {
+    top: 272px;
+    width: 248px;
+    height: 156px;
+  }
+
+  .service2 .chess-bott-serv2 {
+    bottom: 17%;
+  }
+
+  .cont-side-img {
+    width: 370px;
+    height: 690px;
+  }
+
+  .cont-det-item img {
+    width: 35px;
+    height: 35px;
+    margin-right: 14px;
+  }
+
+  .cont-det-item h4,
+  .cont-det-item a,
+  .cont-det-item p {
+    font-size: 14px;
+    line-height: 20px;
+  }
+
+  .cont-det {
+    bottom: 90px;
+    left: 68px;
+  }
+
+  .contact-part {
+    padding: 85px 20px 50px;
+  }
+
+  .input-group-addon img {
+    width: 25px;
+    height: 25px;
+  }
+
+  .input-group> :not(:first-child):not(.dropdown-menu):not(.valid-tooltip):not(.valid-feedback):not(.invalid-tooltip):not(.invalid-feedback) {
+    margin-left: 12px !important;
+  }
+
+  .contact .form-control,
+  .contact .form-select,
+  .contact-part .form-control2 {
+    height: 45px;
+  }
+
+  .contact .react-tel-input .form-control,
+  .contact .react-tel-input .flag-dropdown {
+    height: 45px !important;
+  }
+
+  .contact .form-group {
+    margin-bottom: 26px;
+  }
+
+  .contact .form-control::placeholder,
+  .contact .form-select::placeholder,
+  .contact-part .form-control2::placeholder {
+    font-size: 14px;
+    line-height: 20px;
+  }
+
+  .team-member h1::after {
+    right: 30%;
+  }
+
+  .team-member h1::before {
+    left: 30%;
+  }
+
+  .team-member h1 {
+    font-size: 50px;
+    line-height: 70px;
+  }
+
+  .team-member h2 {
+    font-size: 20px;
+    line-height: 28px;
+    padding-top: 45px;
+  }
+
+  .team-top-img {
+    width: 292px;
+    height: 380px;
+    margin-top: 28px;
+  }
+
+  .team-member .left-shape {
+    top: 652px;
+    width: 46px;
+    height: 63px;
+  }
+
+  .bottom-head img {
+    width: 165px;
+    height: 90px;
+  }
+
+  .gx-7 {
+    --bs-gutter-x: 3rem;
+  }
+
+  .member-card img {
+    width: 135px;
+    height: 135px;
+  }
+
+  .member-card p,
+  .member-card h4 {
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+    margin-bottom: 5px;
+  }
+
+  .member-card {
+    margin-bottom: 60px;
+    height: 285px;
+  }
+
+  .member-cont::after {
+    bottom: 184px;
+  }
+}
+
+/* ------------------1199px-----------------  */
+
+@media screen and (max-width: 1099px) {
+  .foun_info {
+    padding: 11px 0px !important;
+  }
+
+  .foun_social_media {
+    margin-top: 12px;
+  }
+
+  .icons_1 i {
+    font-size: 24px;
+  }
+
+  .foun_desc {
+    font-size: 16px !important;
+    margin-top: 0px !important;
+  }
+
+  .foun_nam {
+    margin-top: 4px !important;
+    font-size: 36px !important;
+  }
+
+  .Blog .sub_image {
+    padding-left: 40px;
+  }
+}
+
+/* ------------------1099px-----------------  */
+
+@media screen and (max-width: 1024px) {
+  .contact_link {
+    display: none;
+  }
+
+  .welcome h1 {
+    font-size: 72px;
+  }
+
+  .Blog h1 {
+    font-size: 18px;
+    line-height: 29px;
+  }
+
+  .background_border h1 {
+    font-size: 40px;
+    line-height: 20px;
+  }
+
+  .background_border1 h1 {
+    font-size: 40px;
+    line-height: 20px;
+  }
+
+  .background_border h2 {
+    font-size: 30px;
+    line-height: 45px;
+  }
+
+  .background_border1 h2 {
+    font-size: 30px;
+    line-height: 45px;
+  }
+
+  .background_border p {
+    font-size: 14px;
+    line-height: 20px;
+  }
+
+  .background_border1 p {
+    font-size: 14px;
+    line-height: 20px;
+  }
+
+  .Founder_icon img {
+    width: 25px;
+  }
+
+  .back_img_1 {
+    display: none;
+  }
+
+  .back_img_2 {
+    display: none;
+  }
+
+  .back_img_3 {
+    display: none;
+  }
+
+  .back_img_4 {
+    display: none;
+  }
+
+  .Blog .sub_image {
+    margin: 0px;
+  }
+
+  .Blog .sub_image1 {
+    margin: 0px;
+  }
+
+  .Blog .sub_image2 {
+    margin: 0px;
+  }
+
+  .Blog .sub_image3 {
+    margin: 0px;
+  }
+
+  .back_img_1 {
+    display: none;
+  }
+
+  .back_img_2 {
+    display: none;
+  }
+
+  .back_img_3 {
+    display: none;
+  }
+
+  .back_img_4 {
+    display: none;
+  }
+
+  .back_img {
+    display: none;
+  }
+
+  .back_img1 {
+    display: none;
+  }
+
+  .welcome {
+    padding-top: 0px;
+  }
+
+  .card-sec {
+    background-image: none;
+    width: 100%;
+  }
+
+  .new-box-blue1 ul {
+    padding-left: 0px;
+  }
+
+  .foun_info {
+    padding: 20px 0px !important;
+  }
+
+  .foun_social_media {
+    margin-top: 12px;
+  }
+
+  .icons_1 i {
+    font-size: 24px;
+  }
+
+  .foun_desc {
+    font-size: 16px !important;
+    margin-top: 18px !important;
+  }
+
+  .foun_nam {
+    margin-top: 20px !important;
+    font-size: 36px !important;
+  }
+
+  .pride_image {
+    left: 0px;
+  }
+
+  .card1 {
+    background-position: 88% -15%, 7%;
+  }
+
+  .OurPride_sub1 .card1 h5 {
+    top: 56%;
+    right: 13%;
+    font-size: 18px;
+  }
+
+  .OurPride_sub1 .card1 p {
+    right: 1%;
+  }
+
+  .OurPride_sub1 .card1 h3 {
+    right: 1%;
+  }
+
+  .pride_flag {
+    right: -40px;
+  }
+
+  .OurPride_sub .card1 p {
+    position: absolute;
+    top: 29%;
+    right: 0%;
+  }
+
+  .OurPride_sub .card1 h5 {
+    right: 6%;
+    font-size: 18px;
+  }
+
+  .FQ_icon2 {
+    left: -5%;
+  }
+
+  .pride_image {
+    left: 0px;
+  }
+
+  .card1 {
+    height: 425px;
+    background-position: 106% -89%, 7%;
+    border-bottom-right-radius: 18px;
+  }
+
+  .OurPride_sub1 .card1 h5 {
+    top: 46%;
+    right: 7%;
+    font-size: 18px;
+  }
+
+  .OurPride_sub1 .card1 p {
+    right: 1%;
+  }
+
+  .OurPride_sub1 .card1 h3 {
+    right: 9%;
+    font-size: 24px;
+  }
+
+  .pride_flag {
+    right: -69px;
+  }
+
+  .pride_flag img {
+    width: 75px;
+  }
+
+  .flag_image {
+    margin-right: 5px;
+  }
+
+  .flag_image img {
+    width: 75px;
+  }
+
+  .OurPride_sub .card1 p {
+    position: absolute;
+    top: 29%;
+    right: 0%;
+  }
+
+  .OurPride_sub .card1 h5 {
+    right: 6%;
+    font-size: 18px;
+  }
+
+  .back_img {
+    display: none;
+  }
+
+  .back_img1 {
+    display: none;
+  }
+
+  .pride_image {
+    left: 0px;
+  }
+
+  .card1 {
+    height: 425px;
+    background-position: 106% -89%, 7%;
+    border-bottom-right-radius: 18px;
+  }
+
+  .OurPride_sub1 .card1 h5 {
+    top: 46%;
+    right: 7%;
+    font-size: 18px;
+  }
+
+  .OurPride_sub1 .card1 p {
+    right: -2%;
+    font-size: 22px;
+    margin-top: 9px;
+  }
+
+  .OurPride_sub1 .card1 h3 {
+    right: 7%;
+    font-size: 22px;
+  }
+
+  .pride_flag {
+    right: -69px;
+  }
+
+  .pride_flag img {
+    width: 75px;
+  }
+
+  .flag_image img {
+    width: 75px;
+  }
+
+  .OurPride_sub .card1 p {
+    position: absolute;
+    top: 29%;
+    right: 0%;
+  }
+
+  .OurPride_sub .card1 h5 {
+    right: 6%;
+    font-size: 18px;
+  }
+}
+
+@media screen and (min-width: 991px) {
+  .contact_link {
+    display: none;
+  }
+}
+
+/* ------------------1024px-----------------  */
+
+@media screen and (max-width: 991px) {
+  .courses_third_card {
+    height: 450px;
+  }
+
+  .Contact_us {
+    display: none;
+  }
+
+  .contact_link {
+    display: block;
+  }
+
+  .Gallery_title {
+    /* font-size: 50px; */
+    margin-top: 6rem;
+  }
+
+  .back_image {
+    margin-left: 0px;
+  }
+
+  .background_border {
+    padding-top: 80px;
+    border: none;
+    background-color: transparent;
+    height: 100%;
+  }
+
+  .background_border1 {
+    background-color: transparent;
+    border: none;
+    height: 100%;
+  }
+
+  .FQ_icon2 {
+    top: 205px;
+    left: -5%;
+    width: 10%;
+  }
+
+  .FQ_icon1 {
+    top: 600px;
+    width: 10%;
+  }
+
+  .new-box-blue1 ul li {
+    width: 100%;
+  }
+
+  .courses_third {
+    height: 1450px;
+  }
+
+  .courses_third_margin_top_card {
+    margin-top: -240px;
+  }
+
+  .pride_image {
+    left: -17px;
+  }
+
+  .pride_image img {
+    width: 78%;
+  }
+
+  .card1 {
+    background-position: 51% -89%, 7%;
+  }
+
+  .OurPride_sub1 .card1 h3 {
+    right: 31%;
+  }
+
+  .OurPride_sub1 .card1 p {
+    right: 11%;
+  }
+
+  .OurPride_sub1 .card1 h5 {
+    top: 51%;
+    right: 12%;
+    font-size: 25px;
+    line-height: 34px;
+  }
+
+  .pride_flag {
+    right: -100px;
+  }
+
+  .pride_flag img {
+    width: 82px;
+  }
+
+  .service1 {
+    padding-top: 110px;
+  }
+
+  .serv-1-right {
+    margin-top: 28px;
+  }
+
+  .bnft-img {
+    top: 111px;
+    width: 275px;
+    height: 183px;
+  }
+
+  .why-part {
+    padding-top: 40px;
+  }
+
+  .why-rt h2 {
+    margin-left: 0px;
+    margin-top: 20px;
+  }
+
+  .how-it-help {
+    padding-top: 33px;
+  }
+
+  .com-chess {
+    flex-direction: column;
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-bottom: 90px;
+  }
+
+  .chess-lt {
+    margin: 0 auto;
+  }
+
+  .chess-rt {
+    width: 95%;
+    margin: 0 auto;
+    align-items: center;
+  }
+
+  .chess-rt p {
+    text-align: center !important;
+  }
+
+  .com-chess::before {
+    height: 352px;
+    top: 92px;
+  }
+
+  .pride_image img {
+    width: 72%;
+  }
+
+  .blue-box-btn a {
+    width: 268px;
+  }
+
+  .Blog .sub_image {
+    padding-left: 0px;
+  }
+
+  .serv2-top {
+    margin-top: 30px;
+  }
+
+  .service2 .top-serv2 {
+    top: 420px;
+  }
+
+  .service2 .chess-bott-serv2 {
+    bottom: 14%;
+  }
+
+  .serv2-ex-m {
+    margin-bottom: 0px;
+  }
+
+  .cont-side-img {
+    margin: 22px auto;
+  }
+
+  .contact-part {
+    margin-top: 28px;
+  }
+
+  .team-member h1::before {
+    left: 25%;
+    top: 0;
+  }
+
+  .team-member h1::after {
+    right: 25%;
+    top: 0;
+  }
+
+  .team-member h1 {
+    font-size: 45px;
+    line-height: 50px;
+  }
+
+  .team-top-img {
+    width: 169px;
+    height: 200px;
+    margin: 35px auto 0px;
+  }
+
+  .team-member h2 {
+    font-size: 18px;
+    line-height: 22px;
+    padding-top: 35px;
+  }
+
+  .bottom-head {
+    margin-top: 74px;
+  }
+
+  .member-cont {
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+
+  .member-cont h5 {
+    font-size: 36px;
+    line-height: 45px;
+    margin-top: 0px;
+  }
+
+  .serv2-ex-m {
+    max-width: 100%;
+  }
+}
+
+/* ------------------991px-----------------  */
+
+@media screen and (max-width: 800px) {
+  .welcome .sub_image {
+    width: 43%;
+  }
+
+  .Gallery_title {
+    font-size: 50px;
+    margin-top: 6rem;
+  }
+
+  .background_border {
+    background-image: none;
+  }
+
+  .background_border1 {
+    background-image: none;
+  }
+
+  .background_border h1 {
+    font-size: 29px;
+    line-height: 20px;
+  }
+
+  .background_border1 h1 {
+    font-size: 29px;
+    line-height: 20px;
+  }
+
+  .background_border h2 {
+    font-size: 20px;
+    line-height: 30px;
+  }
+
+  .background_border1 h2 {
+    font-size: 20px;
+    line-height: 30px;
+  }
+
+  .background_border p {
+    font-size: 14px;
+    line-height: 20px;
+  }
+
+  .background_border1 p {
+    font-size: 14px;
+    line-height: 20px;
+  }
+
+  .Founder_icon img {
+    width: 20px;
+  }
+
+  .HappyParents p {
+    font-size: 14px;
+    line-height: 23px;
+  }
+
+  .Blog .sub_image {
+    margin: auto;
+    padding-left: 0px;
+  }
+
+  .Blog .sub_image1 {
+    margin: auto;
+    padding-left: 0px;
+  }
+
+  .Blog .sub_image2 {
+    margin: auto;
+    padding-left: 0px;
+  }
+
+  .Blog .sub_image3 {
+    margin: auto;
+    padding-left: 0px;
+  }
+
+  .Blog p {
+    font-size: 12px;
+    line-height: 18px;
+  }
+
+  .Blog h1 {
+    font-size: 18px;
+    line-height: 29px;
+  }
+
+  .Blog ul {
+    margin-top: 10px;
+    margin-bottom: 5px;
+  }
+
+  .pride_image img {
+    width: 82%;
+  }
+
+  .OurPride_sub .card1 h3 {
+    right: 29%;
+  }
+
+  .OurPride_sub .card1 h5 {
+    right: 12%;
+    font-size: 20px;
+  }
+
+  .pride_flag {
+    right: -75px;
+  }
+
+  .OurPride_sub1 .card1 h3 {
+    right: 19%;
+  }
+
+  .OurPride_sub1 .card1 p {
+    right: 1%;
+    margin-top: 12px;
+  }
+
+  .OurPride_sub1 .card1 h5 {
+    right: 20%;
+    font-size: 21px;
+    margin-top: 12px;
+  }
+
+  .pride_image {
+    left: -10px;
+  }
+
+  .card1 {
+    height: 425px;
+    background-position: 76% -71%, 30%;
+    border-bottom-right-radius: 18px;
+    width: 93%;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .footer_Background {
+    height: 610px;
+  }
+
+  .footer_Background_2 {
+    height: 0px;
+  }
+
+  .back_img_1 {
+    display: none;
+  }
+
+  .back_img_2 {
+    display: none;
+  }
+
+  .back_img_3 {
+    display: none;
+  }
+
+  .back_img_4 {
+    display: none;
+  }
+
+  .back_img {
+    display: none;
+  }
+
+  .back_img1 {
+    display: none;
+  }
+
+  .pride_image img {
+    width: 85%;
+  }
+
+  .OurPride_sub .card1 h3 {
+    right: 29%;
+  }
+
+  .OurPride_sub .card1 h5 {
+    right: 12%;
+    font-size: 20px;
+  }
+
+  .pride_flag {
+    right: -115px;
+  }
+
+  .OurPride_sub1 .card1 h3 {
+    right: 14%;
+  }
+
+  .OurPride_sub1 .card1 h5 {
+    right: 23%;
+    font-size: 20px;
+  }
+
+  .back_image {
+    margin-left: -60px;
+  }
+
+  .FQuestions ul li {
+    font-size: 15px;
+  }
+
+  .Why p {
+    font-size: 18px;
+    line-height: 25px;
+  }
+
+  .Courses_main {
+    background-image: none;
+    padding-top: 0px;
+    /* margin-top: 2rem; */
+  }
+
+  .founder_image {
+    background-image: none;
+  }
+
+  .OurPride_bgImage {
+    background-image: none;
+  }
+
+  .founder_image1 {
+    background-image: none;
+  }
+
+  .Images {
+    margin-top: -14px;
+  }
+
+  .Why {
+    height: 650px;
+  }
+
+  .chess_image {
+    margin-right: -9rem;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .Why {
+    height: 905px;
+  }
+
+  .footer_icon {
+    justify-content: flex-start;
+  }
+}
+
+/* ------------------800px-----------------  */
+
+@media screen and (max-width: 767px) {
+  .beginner_background {
+    background-image: none;
+  }
+
+  .FQ_icon1 {
+    top: 600px;
+    width: 18%;
+  }
+
+  .FQ_icon2 {
+    left: -13%;
+    width: 18%;
+  }
+
+  .footer_icon {
+    justify-content: flex-start;
+  }
+
+  .welcome h1 {
+    font-size: 39px;
+    line-height: 54px;
+  }
+
+  .Gallery_title {
+    font-size: 50px;
+    margin-top: 6rem;
+  }
+
+  .about_us {
+    background-image: none;
+  }
+
+  .background_border h1 {
+    font-size: 30px;
+    line-height: 0px;
+  }
+
+  .background_border h2 {
+    font-size: 25px;
+  }
+
+  .background_border p {
+    font-size: 15px;
+    line-height: 20px;
+  }
+
+  .background_border1 h1 {
+    font-size: 30px;
+    line-height: 0px;
+  }
+
+  .background_border1 h2 {
+    font-size: 25px;
+  }
+
+  .background_border1 p {
+    font-size: 15px;
+    line-height: 20px;
+  }
+
+  .bnft-img {
+    top: 145px;
+    width: 223px;
+    height: 158px;
+  }
+
+  .com-chess::before {
+    height: 316px;
+    top: 73px;
+  }
+
+  .footer_Background {
+    height: 100px;
+  }
+
+  .back_image {
+    margin-left: -31px;
+    /* width: 50%; */
+  }
+
+  /* .center_image {
+      width: 70%;
+    } */
+
+  .Courses_main {
+    background-image: none;
+    padding-top: 0px;
+    /* margin-top: 2rem; */
+  }
+
+  .founder_image {
+    background-image: none;
+  }
+
+  .OurPride_bgImage {
+    background-image: none;
+  }
+
+  .founder_image1 {
+    background-image: none;
+  }
+
+  .slider_button {
+    display: none;
+  }
+
+  .blue-box-btn a {
+    width: 195px;
+  }
+
+  .footer_Background {
+    height: 1020px;
+  }
+
+  .footer_Background h2 {
+    font-size: 10px;
+    line-height: 17px;
+  }
+
+  .service2 .top-serv2 {
+    top: 415px;
+    width: 202px;
+    height: 140px;
+  }
+
+  .service2 .chess-bott-serv2 {
+    bottom: 17%;
+    width: 88px;
+    height: 95px;
+  }
+
+  .service2::after {
+    width: 80px;
+    height: 80px;
+    top: 52%;
+  }
+
+  .con-head h1 {
+    font-size: 39px;
+    line-height: 58px;
+  }
+
+  .con-head h2 {
+    font-size: 18px;
+    line-height: 26px;
+  }
+
+  .con-head {
+    padding-top: 131px;
+  }
+
+  .contact::before {
+    height: 342px;
+    background-size: 100% 342px;
+  }
+
+  .cont-side-img {
+    margin: 5px auto;
+  }
+
+  .contact-part {
+    margin-top: 35px;
+  }
+
+  .cont-map {
+    margin-top: 58px;
+    margin-bottom: -6px;
+  }
+
+  .team-member h1::before,
+  .team-member h1::after {
+    top: 8px;
+    border: 15px solid transparent;
+    border-bottom: 27px solid #344cb7;
+  }
+
+  .team-member h1::before {
+    left: 24%;
+  }
+
+  .team-member h1::after {
+    right: 24%;
+  }
+
+  .team-member h1 {
+    font-size: 40px;
+    line-height: 45px;
+  }
+
+  .team-member .left-shape {
+    top: 675px;
+  }
+
+  .bottom-head h3 {
+    font-size: 38px;
+    line-height: 50px;
+  }
+
+  .serv2-para h3,
+  .serv2-top-bott h3 {
+    font-size: 26px;
+    line-height: 32px;
+  }
+
+  .serv2-para h3::before {
+    top: 10px;
+  }
+}
+
+/* ------------------767px-----------------  */
+@media screen and (max-width: 650px) {
+  .footer_Background {
+    height: 1050px;
+  }
+}
+
+/* ------------------575px-----------------  */
+
+@media screen and (max-width: 575px) {
+  .courses_third_card {
+    height: 300px;
+  }
+
+  .chess_image {
+    margin-right: -2rem;
+  }
+
+  .Gallery_background {
+    background-size: contain;
+  }
+
+  .Gallery_title {
+    font-size: 48px;
+    margin-top: 4rem;
+  }
+
+  .courses-1-left h3 {
+    font-size: 16px;
+  }
+
+  /* .title_image {
+      width: 45px;
+    } */
+
+  .courses_third {
+    height: 980px;
+  }
+
+  .courses_third_margin_top_card {
+    margin-top: 0px;
+  }
+
+  .courses_third ul li {
+    padding-top: 10px;
+  }
+
+  .courses_third ul li::before {
+    margin-top: 10px;
+  }
+
+  .services ul li {
+    width: 100%;
+  }
+
+  .FQuestions ul {
+    padding-left: 10px;
+  }
+
+  .FQuestions ul li {
+    font-size: 13px;
+    line-height: 20px;
+  }
+
+  .flag_image {
+    margin-right: 1px;
+  }
+
+  /* .back_image {
+      margin-left: -31px;
+    } */
+
+  .OurPride_sub .card1 h3 {
+    right: 21%;
+  }
+
+  .OurPride_sub .card1 h5 {
+    right: 4%;
+    font-size: 16px;
+  }
+
+  .OurPride_box {
+    padding: 0px !important;
+  }
+
+  .pride_flag {
+    right: -74px;
+  }
+
+  .pride_flag img {
+    width: 42%;
+  }
+
+  .flag_image img {
+    width: 42%;
+  }
+
+  .OurPride_sub .card1 h5 {
+    right: 10%;
+    font-size: 18px;
+  }
+
+  .card1 {
+    height: 364px;
+    background-position: 88% -15%, 0%;
+  }
+
+  .OurPride_sub .card1 h3 {
+    font-size: 24px;
+    line-height: 30px;
+    right: 32%;
+  }
+
+  .OurPride_sub .card1 p {
+    right: 1%;
+    font-size: 23px;
+    line-height: 20px;
+  }
+
+  .pride_image {
+    top: -13px;
+  }
+
+  .welcome h1 {
+    font-size: 36px;
+    line-height: 40px;
+  }
+
+  .about_us h1 {
+    font-size: 20px;
+    line-height: 30px;
+  }
+
+  .about_us p {
+    font-size: 12px;
+    line-height: 20px;
+  }
+
+  .services h1 {
+    font-size: 20px;
+    line-height: 26px;
+  }
+
+  .services h2 {
+    font-size: 20px;
+    line-height: 30px;
+  }
+
+  .border_one {
+    width: 20%;
+  }
+
+  .border_two {
+    width: 10%;
+  }
+
+  .Images {
+    margin-top: 0px;
+  }
+
+  .background_border h1 {
+    font-size: 22px;
+    line-height: 0px;
+  }
+
+  .background_border h2 {
+    font-size: 20px;
+  }
+
+  .background_border1 h1 {
+    font-size: 22px;
+    line-height: 0px;
+  }
+
+  .background_border1 h2 {
+    font-size: 20px;
+  }
+
+  .new-box-blue h3 {
+    font-size: 18px;
+  }
+
+  .new-box-blue p {
+    font-size: 12px;
+  }
+
+  .new-box-blue ul li {
+    font-size: 12px;
+  }
+
+  .card-sec {
+    margin-top: 0px;
+  }
+
+  .slider_button {
+    display: none;
+  }
+
+  .flag_image {
+    margin-right: 1px;
+  }
+
+  .serv-1-left {
+    padding-left: 10px;
+  }
+
+  .serv-1-left p {
+    font-size: 15px;
+    line-height: 15px;
+  }
+
+  .serv-1-left h1 {
+    font-size: 24px;
+  }
+
+  .serv-1-left h1::after {
+    width: 160px;
+  }
+
+  .bnft h4 {
+    margin-top: 175px;
+    width: 98%;
+  }
+
+  .bnft-img {
+    top: 112px;
+    left: 50%;
+    transform: translate(-50%);
+  }
+
+  .bnft h2 {
+    font-size: 26px;
+    line-height: 34px;
+    padding-top: 42px;
+  }
+
+  .why-part-img {
+    width: 75%;
+    height: auto;
+    margin: 0 auto;
+  }
+
+  .chess-rt h2 {
+    font-size: 23px !important;
+    line-height: 30px !important;
+    margin-top: 20px !important;
+  }
+
+  .chess-rt p {
+    font-size: 13px !important;
+    margin-top: 10px !important;
+    margin-bottom: 18px !important;
+  }
+
+  .chess-rt a {
+    padding: 8px 20px !important;
+    font-size: 13px !important;
+  }
+
+  .com-chess::before {
+    height: 285px;
+    top: 54px;
+  }
+
+  .Blog .sub_image {
+    padding-left: -100px;
+  }
+
+  .Blog .sub_image {
+    margin: 0px;
+  }
+
+  .Blog .sub_image1 {
+    margin: 0px;
+    margin-top: -100px;
+  }
+
+  .Blog .sub_image2 {
+    margin: 0px;
+  }
+
+  .Blog .sub_image3 {
+    margin: 0px;
+  }
+
+  .footer_Background {
+    height: 1000px;
+  }
+
+  .OurPride_sub .card1 h3 {
+    right: 21%;
+  }
+
+  .OurPride_sub .card1 h5 {
+    right: 4%;
+    font-size: 16px;
+  }
+
+  .OurPride_box {
+    padding: 0px !important;
+  }
+
+  .pride_flag {
+    right: -74px;
+  }
+
+  .pride_flag img {
+    width: 42%;
+  }
+
+  .flag_image img {
+    width: 42%;
+  }
+
+  .OurPride_sub .card1 h5 {
+    right: 10%;
+    font-size: 18px;
+  }
+
+  .card1 {
+    height: 364px;
+    background-position: 88% -15%, 0%;
+  }
+
+  .OurPride_sub .card1 h3 {
+    font-size: 24px;
+    line-height: 30px;
+    right: 32%;
+  }
+
+  .OurPride_sub .card1 p {
+    right: 1%;
+    font-size: 23px;
+    line-height: 20px;
+  }
+
+  .pride_image {
+    top: -13px;
+  }
+
+  .back_image {
+    margin-left: -31px;
+    padding-bottom: 100px;
+  }
+
+  .commonButtonClass {
+    font-size: 11px;
+  }
+
+  .blue-box-btn a {
+    width: 130px;
+    height: 40px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 14px;
+    color: #ffffff;
+  }
+
+  .blue-box-btn {
+    height: 80px;
+  }
+
+  .new-box-blue1 p {
+    font-weight: 400;
+    font-size: 14px;
+  }
+
+  .new-box-blue1 {
+    padding: 0px;
+  }
+
+  .new-box-blue1 ul li {
+    font-size: 12px;
+    line-height: 19px;
+  }
+
+  .foun_info {
+    padding: 0px 0px !important;
+  }
+
+  .FQuestions h2 {
+    font-size: 24px;
+    line-height: 35px;
+  }
+
+  .FQuestions p {
+    font-size: 17px;
+    line-height: 30px;
+  }
+
+  .FQuestions ul li {
+    font-size: 10px;
+    line-height: 20px;
+  }
+
+  .Why p {
+    font-size: 12px;
+    line-height: 20px;
+  }
+
+  .icon_image {
+    width: 6%;
+  }
+
+  .image_main {
+    width: 40%;
+  }
+
+  .OurPride h2 {
+    font-size: 23px;
+  }
+
+  .Courses_main {
+    background-image: none;
+    padding-top: 0px;
+    margin-top: 2rem;
+  }
+
+  .founder_image {
+    background-image: none;
+  }
+
+  .OurPride_bgImage {
+    background-image: none;
+  }
+
+  .founder_image1 {
+    background-image: none;
+  }
+
+  .foun_nam {
+    font-size: 23px !important;
+  }
+
+  .HappyParents h2 {
+    font-size: 22px;
+    line-height: 28px;
+  }
+
+  .blue-box-btn a {
+    width: 180px;
+  }
+
+  .Why {
+    height: 869px;
+  }
+
+  /* .chess_image {
+          display: none;
+      } */
+
+  .service1 {
+    padding-top: 100px;
+  }
+
+  .serv2-top-bott h3 {
+    font-size: 25px;
+    line-height: 32px;
+    padding-top: 14px;
+  }
+
+  .courses-1-left h1 {
+    font-size: 19px;
+    margin-left: 20px;
+  }
+
+  .courses-1-right p {
+    font-size: 17px;
+  }
+
+  .heading_course h1 {
+    font-size: 19px;
+    margin-left: 20px;
+  }
+
+  .heading_course p {
+    font-size: 12px;
+    line-height: 20px;
+  }
+
+  .subTitle_course h3 {
+    font-size: 12px;
+    line-height: 25px;
+  }
+
+  .FQ_icon1 {
+    display: none;
+  }
+
+  .FQ_icon2 {
+    display: none;
+  }
+
+  .serv2-para h3 {
+    font-size: 25px;
+    line-height: 33px;
+  }
+
+  .serv2-cont {
+    padding: 0px 10px 0px 20px;
+  }
+
+  .service2 .top-serv2 {
+    top: 410px;
+    width: 151px;
+    height: 110px;
+  }
+
+  .service2 .chess-bott-serv2 {
+    bottom: 16%;
+  }
+
+  .con-head h2 {
+    font-size: 16px;
+    line-height: 30px;
+  }
+
+  .con-head h1 {
+    font-size: 32px;
+    line-height: 40px;
+  }
+
+  .cont-side-img {
+    width: 320px;
+    height: 550px;
+  }
+
+  .cont-det-item img {
+    width: 26px;
+    height: 26px;
+    margin-right: 10px;
+  }
+
+  .cont-det {
+    bottom: 62px;
+    left: 60px;
+  }
+
+  .cont-det-item a,
+  .cont-det-item p {
+    font-size: 12.5px;
+  }
+
+  .cont-det-item h4 {
+    font-size: 13px;
+  }
+
+  .cont-det-item {
+    margin-top: 20px;
+  }
+
+  .contact .react-tel-input .form-control {
+    padding-left: 48px !important;
+    width: 95px !important;
+  }
+
+  .contact .react-tel-input .flag-dropdown {
+    padding: 15px 12px !important;
+  }
+
+  .team-member .left-shape {
+    top: 513px;
+    width: 30px;
+    height: 45px;
+  }
+
+  .bottom-head {
+    margin-top: 42px;
+  }
+
+  .gx-7 {
+    --bs-gutter-x: 0rem;
+  }
+
+  .bottom-head h3 {
+    font-size: 33px;
+    line-height: 36px;
+  }
+
+  .bottom-head img {
+    width: 100px;
+    height: 60px;
+    top: 0px;
+    left: 292px;
+  }
+
+  .team-member h1 {
+    font-size: 35px;
+    line-height: 35px;
+  }
+
+  .team-member h1::before {
+    left: 21%;
+  }
+
+  .team-member h1::after {
+    right: 21%;
+  }
+
+  .team-member h1::before,
+  .team-member h1::after {
+    top: 3px;
+  }
+
+  .team-top-img {
+    width: 100px;
+    height: 135px;
+    margin: 17px auto 0px;
+  }
+
+  .team-member h2 {
+    font-size: 16px;
+    line-height: 20px;
+    padding-top: 22px;
+  }
+
+  .member-cont h5 {
+    font-size: 28px;
+    line-height: 32px;
+  }
+
+  .serv2-para h3::before {
+    left: -21px;
+    width: 7.9px;
+    height: 7.9px;
+  }
+}
+
+/* ------------------575px-----------------  */
+@media screen and (max-width: 500px) {
+  .chess_image {
+    margin-right: -2rem;
+  }
+
+  .Why {
+    height: 800px;
+  }
+
+  .welcome .sub_image {
+    width: 36%;
+  }
+}
+
+/* ------------------480px-----------------  */
+@media screen and (max-width: 480px) {
+  .courses_third_card {
+    height: 340px;
+  }
+
+  .courses_third_card_third {
+    margin-top: -40px;
+  }
+
+  .welcome .sub_image {
+    width: 50%;
+  }
+
+  .Gallery_title {
+    font-size: 30px;
+  }
+
+  .courses_third {
+    height: 1070px;
+  }
+
+  .FQuestions ul {
+    padding-left: 5px;
+  }
+
+  .FQuestions ul li {
+    font-size: 13px;
+  }
+
+  .OurPride_box {
+    padding: 0px !important;
+  }
+
+  .pride_flag {
+    right: -61px;
+  }
+
+  .pride_flag img {
+    width: 70%;
+  }
+
+  .flag_image img {
+    width: 40%;
+  }
+
+  .OurPride_sub .card1 h5 {
+    right: 25%;
+    font-size: 20px;
+    top: 59%;
+  }
+
+  .card1 {
+    height: 464px;
+    width: 100%;
+    background-position: 48% -51%, 0%;
+  }
+
+  .OurPride_sub .card1 h3 {
+    font-size: 24px;
+    line-height: 30px;
+    right: 26%;
+  }
+
+  .OurPride_sub .card1 p {
+    right: -3%;
+    font-size: 23px;
+    line-height: 20px;
+  }
+
+  .pride_image {
+    top: -3px;
+  }
+
+  .pride_image img {
+    width: 62%;
+  }
+
+  .OurPride_sub1 .card1 h3 {
+    right: 21%;
+  }
+
+  .OurPride_box {
+    padding: 33px 0px !important;
+  }
+
+  .OurPride_sub1 .card1 p {
+    right: 7%;
+    margin-top: 2px;
+  }
+
+  .OurPride_sub1 .card1 h5 {
+    right: 6%;
+    font-size: 21px;
+    margin-top: 2px;
+  }
+
+  .blue-box-btn a {
+    width: 150px;
+  }
+
+  .serv-1-left h1 {
+    font-size: 20px;
+  }
+
+  .serv-1-left h2 {
+    font-size: 16px;
+    margin-top: 0px;
+    margin-bottom: 14px;
+  }
+
+  .serv-1-left a {
+    padding: 10px 66px;
+    font-size: 16px;
+  }
+
+  .serv-1-right p {
+    font-size: 14px;
+    line-height: 20px;
+  }
+
+  .bnft h2 {
+    font-size: 22px;
+    line-height: 28px;
+    padding-top: 30px;
+  }
+
+  .bnft-img {
+    top: 95px;
+  }
+
+  .bnft h4 {
+    font-size: 14px;
+    line-height: 20px;
+  }
+
+  .bnft ul li h3 {
+    font-size: 16px;
+    line-height: 26px;
+  }
+
+  .bnft ul li h3 p {
+    font-size: 14px;
+    line-height: 20px;
+    margin-top: 7px;
+  }
+
+  .why-part {
+    padding-top: 30px;
+  }
+
+  .why-part-img {
+    width: 80%;
+  }
+
+  .why-rt ul li,
+  .how-it-help ul li {
+    font-size: 14px;
+    line-height: 20px;
+  }
+
+  .how-it-help {
+    padding-top: 10px;
+  }
+
+  .how-it-help h3 {
+    font-size: 22px;
+    line-height: 28px;
+  }
+
+  .how-it-help p {
+    font-size: 14px;
+    line-height: 20px;
+    margin-top: 10px;
+  }
+
+  .chess-lt {
+    width: 60%;
+  }
+
+  .chess-rt h2 {
+    font-size: 18px !important;
+    line-height: 20px !important;
+    margin-top: 15px !important;
+  }
+
+  .com-chess::before {
+    height: 310px;
+    top: 50px;
+  }
+
+  .service2 .top-serv2 {
+    display: none;
+  }
+
+  .serv2-top p,
+  .serv2-top-bott ul li,
+  .serv2-para p {
+    font-size: 14px;
+    line-height: 20px;
+  }
+
+  .serv2-top-bott ul {
+    padding-top: 10px;
+  }
+
+  .serv2-top-bott h3 {
+    font-size: 27px;
+    line-height: 27px;
+    padding-top: 8px;
+  }
+
+  .serv2-para h3 {
+    font-size: 25px;
+    line-height: 31px;
+  }
+
+  .serv2-para {
+    margin-top: 12px;
+  }
+
+  .serv2-para p {
+    margin-top: 10px;
+  }
+
+  .service2 .chess-bott-serv2 {
+    bottom: 19%;
+    width: 60px;
+    height: 68px;
+  }
+
+  .service2::after {
+    width: 65px;
+    height: 65px;
+    right: -25px;
+  }
+
+  .con-head {
+    padding-top: 100px;
+  }
+
+  .con-head h2 {
+    font-size: 15px;
+    line-height: 20px;
+    margin-bottom: 10px;
+  }
+
+  .con-head h1 {
+    font-size: 28px;
+    line-height: 32px;
+  }
+
+  .contact-part {
+    padding: 45px 16px 45px;
+  }
+
+  .input-group-addon img {
+    width: 20px;
+    height: 20px;
+  }
+
+  .input-group> :not(:first-child):not(.dropdown-menu):not(.valid-tooltip):not(.valid-feedback):not(.invalid-tooltip):not(.invalid-feedback) {
+    margin-left: 8px !important;
+  }
+
+  .contact .form-control,
+  .contact .form-select,
+  .contact-part .form-control2 {
+    height: 42px;
+  }
+
+  .contact .react-tel-input .form-control,
+  .contact .react-tel-input .flag-dropdown {
+    height: 42px !important;
+  }
+
+  .contact .form-control::placeholder,
+  .contact .form-select::placeholder,
+  .contact-part .form-control2::placeholder,
+  .contact .react-tel-input .form-control::placeholder {
+    font-size: 13px !important;
+  }
+
+  .contact .form-group {
+    margin-bottom: 12px;
+  }
+
+  .contact .react-tel-input .flag-dropdown {
+    padding: 10px !important;
+    width: 44px !important;
+  }
+
+  .react-tel-input .selected-flag {
+    width: 28px !important;
+  }
+
+  .contact .react-tel-input .form-control {
+    padding-left: 43px !important;
+    width: 88px !important;
+  }
+
+  .contact-container {
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+
+  .contact-part .form-control2 {
+    width: 140px;
+    padding: 13px 20px;
+  }
+
+  .contact-part h5 {
+    font-size: 16px;
+    line-height: 24px;
+    margin-bottom: 19px;
+    margin-top: -8px;
+  }
+
+  .cont-butt {
+    margin-top: 32px;
+  }
+
+  .bottom-head img {
+    display: none;
+  }
+
+  .team-member h1 {
+    font-size: 30px;
+    line-height: 30px;
+  }
+
+  .team-member h1::before {
+    left: 17%;
+  }
+
+  .team-member h1::after {
+    right: 17%;
+  }
+
+  .bottom-head {
+    margin-top: 32px;
+  }
+
+  .team-member .left-shape {
+    top: 578px;
+  }
+
+  .member-cont h5 {
+    font-size: 22px;
+    line-height: 28px;
+  }
+
+  .bottom-head h3 {
+    font-size: 28px;
+    line-height: 30px;
+  }
+}
+
+/* ------------------480px-----------------  */
+
+@media screen and (max-width: 400px) {
+  .courses_third_card_third {
+    margin-top: -20px;
+  }
+
+  .Gallery_title {
+    font-size: 30px;
+  }
+
+  .Courses {
+    padding: 0px;
+  }
+
+  .flag_image {
+    margin-right: 0px;
+  }
+
+  .OurPride_box {
+    padding: 0px !important;
+  }
+
+  .pride_flag {
+    right: -36px;
+  }
+
+  .pride_flag img {
+    width: 52%;
+  }
+
+  .flag_image img {
+    width: 52%;
+  }
+
+  .OurPride_sub .card1 h5 {
+    right: 7%;
+    font-size: 14px;
+  }
+
+  .card1 {
+    height: 364px;
+    background-position: 88% -15%, 0%;
+  }
+
+  .OurPride_sub .card1 h3 {
+    font-size: 24px;
+    line-height: 30px;
+    right: 26%;
+  }
+
+  .OurPride_sub .card1 p {
+    right: -3%;
+    font-size: 23px;
+    line-height: 20px;
+  }
+
+  .pride_image {
+    top: -13px;
+  }
+
+  .Why {
+    height: 730px;
+  }
+}
+
+@media screen and (max-width: 380px) {
+  .Welcome_image {
+    width: 30%;
+  }
+
+  .Gallery_title {
+    font-size: 30px;
+  }
+
+  .OurPride_box {
+    padding: 40px 8px !important;
+  }
+
+  .pride_flag {
+    right: -79px;
+  }
+
+  .pride_flag img {
+    width: 52%;
+  }
+
+  .flag_image img {
+    width: 52%;
+  }
+
+  .OurPride_sub .card1 h5 {
+    right: 7%;
+    font-size: 14px;
+  }
+
+  .card1 {
+    height: 406px;
+    background-position: 74% -96%, 0%;
+  }
+
+  .OurPride_sub .card1 h3 {
+    font-size: 24px;
+    line-height: 30px;
+  }
+
+  .OurPride_sub .card1 p {
+    right: -6%;
+    font-size: 23px;
+    line-height: 20px;
+  }
+
+  .OurPride_sub1 .card1 p {
+    right: 9%;
+    margin-top: 12px;
+    font-size: 21px;
+  }
+
+  .OurPride_sub1 .card1 h5 {
+    right: 9%;
+    font-size: 18px;
+    margin-top: 22px;
+  }
+
+  .pride_image {
+    top: -7px;
+  }
+}
+
+/* ------------------400px-----------------  */
+
+@media screen and (max-width: 360px) {
+  .Gallery_title {
+    font-size: 25px;
+    margin-top: 25px;
+  }
+
+  .services ul li {
+    width: 100%;
+  }
+
+  .pride_flag {
+    right: -36px;
+  }
+
+  .OurPride_sub1 .card1 h3 {
+    right: 16%;
+    font-size: 21px;
+  }
+
+  .OurPride_sub1 .card1 p {
+    right: 6%;
+    margin-top: 19px;
+  }
+
+  .pride_flag img {
+    width: 52%;
+  }
+
+  .flag_image img {
+    width: 52%;
+  }
+
+  .OurPride_sub .card1 h5 {
+    right: 7%;
+    font-size: 14px;
+  }
+
+  .card1 {
+    height: 364px;
+    background-position: 74% -138%, 0%;
+  }
+
+  .OurPride_sub .card1 h3 {
+    font-size: 24px;
+    line-height: 30px;
+  }
+
+  .OurPride_sub .card1 p {
+    right: -6%;
+    font-size: 23px;
+    line-height: 20px;
+  }
+
+  .pride_image {
+    top: -13px;
+  }
+
+  .Courses {
+    padding: 0px;
+  }
+
+  .Courses ul {
+    padding-left: 0rem;
+  }
+
+  .Courses ul li::before {
+    margin-left: -1em;
+    padding: 4px;
+  }
+
+  .background_border1 h1 {
+    font-size: 21px;
+    line-height: 0px;
+  }
+
+  .background_border1 p {
+    font-size: 12px;
+    line-height: 20px;
+  }
+
+  .background_border p {
+    font-size: 12px;
+    line-height: 20px;
+  }
+
+  .Founder_icon img {
+    width: 22px;
+  }
+
+  .flag_image {
+    margin-right: 0px;
+  }
+
+  .HappyParents p {
+    font-size: 12px;
+    line-height: 18px;
+  }
+
+  .footer_Background {
+    height: 1060px;
+  }
+
+  .Courses_main {
+    padding-top: 0px;
+  }
+
+  .new-box-blue1 ul {
+    padding-left: 22px;
+    padding: 35px;
+  }
+
+  .OurPride_box {
+    padding: 0px !important;
+  }
+
+  .pride_flag {
+    right: -36px;
+  }
+
+  .pride_flag img {
+    width: 52%;
+  }
+
+  .flag_image img {
+    width: 52%;
+  }
+
+  .OurPride_sub .card1 h5 {
+    right: 7%;
+    font-size: 14px;
+  }
+
+  .card1 {
+    height: 364px;
+    background-position: 88% -15%, 0%;
+  }
+
+  .OurPride_sub .card1 h3 {
+    font-size: 24px;
+    line-height: 30px;
+  }
+
+  .OurPride_sub .card1 p {
+    right: -6%;
+    font-size: 23px;
+    line-height: 20px;
+  }
+
+  .pride_image {
+    top: -13px;
+  }
+
+  .FQuestions h2 {
+    line-height: 10px;
+    font-size: 16px;
+  }
+
+  .FQuestions p {
+    font-size: 12px;
+  }
+
+  .blue-box-btn {
+    height: 90px;
+  }
+
+  .blue-box-btn {
+    bottom: -50px;
+  }
+
+  .blue-box-btn a {
+    width: 150px;
+  }
+
+  .serv2-top-bott h3 {
+    font-size: 25px;
+  }
+
+  .serv2-para h3 {
+    font-size: 22px;
+    line-height: 28px;
+  }
+
+  .cont-side-img {
+    width: 300px;
+  }
+
+  .cont-det {
+    left: 49px;
+  }
+
+  .team-member h1::before {
+    left: 12%;
+  }
+
+  .team-member h1::after {
+    right: 12%;
+  }
+
+  .team-member .left-shape {
+    top: 636px;
+  }
+}
+
+/* ------------------360px-----------------  */
+
+@media screen and (max-width: 320px) {
+  .Gallery_title {
+    font-size: 26px;
+  }
+
+  .OurPride_box {
+    padding: 40px 8px !important;
+  }
+
+  .pride_flag {
+    right: -60px;
+  }
+
+  .pride_flag img {
+    width: 60%;
+  }
+
+  .flag_image img {
+    width: 60%;
+  }
+
+  .OurPride_sub .card1 h5 {
+    right: 7%;
+    font-size: 14px;
+  }
+
+  .card1 {
+    height: 334px;
+    background-position: 146% -312%, 0%;
+  }
+
+  .pride_image img {
+    width: 56%;
+  }
+
+  .OurPride_sub1 .card1 h3 {
+    right: 12%;
+    font-size: 19px;
+  }
+
+  .OurPride_sub .card1 h3 {
+    font-size: 24px;
+    line-height: 30px;
+  }
+
+  .OurPride_sub .card1 p {
+    right: -6%;
+    font-size: 23px;
+    line-height: 20px;
+  }
+
+  .OurPride_sub1 .card1 p {
+    right: 4%;
+    margin-top: 23px;
+    font-size: 18px;
+  }
+
+  .OurPride_sub1 .card1 h5 {
+    right: 5%;
+    font-size: 16px;
+    margin-top: 22px;
+  }
+
+  .pride_image {
+    top: -7px;
+  }
+
+  .OurPride_box {
+    padding: 40px 8px !important;
+  }
+
+  .pride_flag {
+    right: -60px;
+  }
+
+  .pride_flag img {
+    width: 60%;
+  }
+
+  .flag_image img {
+    width: 60%;
+  }
+
+  .OurPride_sub .card1 h5 {
+    right: 7%;
+    font-size: 14px;
+  }
+
+  .card1 {
+    height: 406px;
+    background-position: 173% -116%, 0%;
+  }
+
+  .pride_image img {
+    width: 56%;
+  }
+
+  .OurPride_sub1 .card1 h3 {
+    right: 12%;
+    font-size: 19px;
+  }
+
+  .OurPride_sub .card1 h3 {
+    font-size: 24px;
+    line-height: 30px;
+  }
+
+  .OurPride_sub .card1 p {
+    right: -6%;
+    font-size: 23px;
+    line-height: 20px;
+  }
+
+  .OurPride_sub1 .card1 p {
+    right: 4%;
+    margin-top: 12px;
+    font-size: 18px;
+  }
+
+  .OurPride_sub1 .card1 h5 {
+    right: 5%;
+    font-size: 16px;
+    margin-top: 22px;
+  }
+
+  .pride_image {
+    top: -7px;
+  }
+
+  .blue-box-btn a {
+    width: 150px;
+  }
+
+  .courses-1-right a {
+    padding: 9px 20px;
+    font-size: 15px;
+    line-height: 30px;
+  }
+
+  .courses-1-right {
+    padding: 19px 55px;
+  }
+}
+
+@media (min-width: 525px) and (max-width: 767px) {
+  .OurPride_box {
+    padding: 3rem;
+  }
+
+  .pride_image {
+    top: -7px;
+  }
+
+  .pride_image img {
+    width: 68%;
+  }
+
+  .OurPride_sub1 .card1 p {
+    right: 14%;
+  }
+
+  .OurPride_sub1 .card1 h5 {
+    top: 51%;
+    right: 12%;
+    font-size: 21px;
+    line-height: 34px;
+  }
+}
+
+@media (min-width: 481px) and (max-width: 524px) {
+  .OurPride_box {
+    padding: 2rem;
+  }
+
+  .pride_image {
+    top: -8px;
+  }
+
+  .pride_image img {
+    width: 68%;
+  }
+
+  .OurPride_sub1 .card1 p {
+    right: 9%;
+  }
+
+  .OurPride_sub1 .card1 h3 {
+    right: 26%;
+  }
+
+  .OurPride_sub1 .card1 h5 {
+    top: 51%;
+    right: 12%;
+    font-size: 21px;
+    line-height: 34px;
+  }
+}
+
+@media (min-width: 468px) and (max-width: 480px) {
+  .OurPride_box {
+    padding: 2rem;
+  }
+
+  .pride_image {
+    top: -8px;
+    left: -4px;
+  }
+
+  .pride_image img {
+    width: 68%;
+  }
+
+  .OurPride_sub1 .card1 p {
+    right: 14%;
+    margin-top: -7px;
+  }
+
+  .OurPride_sub1 .card1 h3 {
+    right: 33%;
+    top: 7%;
+  }
+
+  .OurPride_sub1 .card1 h5 {
+    top: 51%;
+    right: 12%;
+    font-size: 24px;
+    line-height: 34px;
+  }
+}
+
+@media (min-width: 426px) and (max-width: 467px) {
+  .OurPride_box {
+    padding: 2rem;
+  }
+
+  .pride_image {
+    top: -8px;
+    left: -4px;
+  }
+
+  .pride_image img {
+    width: 68%;
+  }
+
+  .OurPride_sub1 .card1 p {
+    right: 9%;
+    margin-top: -7px;
+  }
+
+  .OurPride_sub1 .card1 h3 {
+    right: 26%;
+    top: 7%;
+  }
+
+  .OurPride_sub1 .card1 h5 {
+    top: 51%;
+    right: 12%;
+    font-size: 21px;
+    line-height: 34px;
+  }
+}
+
+@media (min-width: 416px) and (max-width: 424px) {
+  .OurPride_sub1 .card1 h3 {
+    right: 27%;
+  }
+
+  .OurPride_sub1 .card1 p {
+    right: 11%;
+  }
+}
+
+@media (min-width: 942px) and (max-width: 992px) {
+  .foun_info {
+    padding: 8px 0px !important;
+  }
+
+  .background_border h1 {
+    font-size: 34px;
+    line-height: 20px;
+  }
+
+  .foun_info .foun_nam {
+    margin-top: 15px !important;
+    font-size: 30px !important;
+  }
+
+  .foun_desc {
+    font-size: 13px !important;
+    margin-top: -4px !important;
+  }
+
+  .foun_info .social_icon {
+    margin-top: -4px !important;
+  }
+
+  .background_border1 h1 {
+    font-size: 34px;
+    line-height: 20px;
+  }
+
+  .background_border1 p {
+    font-size: 14px;
+    line-height: 24px;
+    margin-top: 4px !important;
+  }
+
+  .background_border1 .social_icon {
+    left: 44px;
+    position: relative;
+    margin-top: -18px !important;
+  }
+}
+
+@media (min-width: 900px) and (max-width: 943px) {
+  .foun_info {
+    padding: 14px 0px !important;
+  }
+
+  .background_border h1 {
+    font-size: 34px;
+    line-height: 20px;
+  }
+
+  .foun_info .foun_nam {
+    margin-top: 15px !important;
+    font-size: 30px !important;
+  }
+
+  .foun_desc {
+    font-size: 12px !important;
+    line-height: 20px !important;
+    margin-top: -4px !important;
+  }
+
+  .foun_info .social_icon {
+    margin-top: -4px !important;
+  }
+
+  .background_border1 h1 {
+    font-size: 34px;
+    line-height: 20px;
+  }
+
+  .background_border1 p {
+    font-size: 14px;
+    line-height: 24px;
+    margin-top: 4px !important;
+  }
+
+  .background_border1 .social_icon {
+    left: 44px;
+    position: relative;
+    margin-top: -8px !important;
+  }
+}
+
+@media (min-width: 872px) and (max-width: 899px) {
+  .foun_info h1 {
+    font-size: 30px;
+  }
+
+  .foun_info .foun_nam {
+    margin-top: 8px !important;
+    font-size: 32px !important;
+  }
+
+  .foun_desc {
+    font-size: 12px !important;
+    line-height: 20px !important;
+    margin-top: -2px !important;
+  }
+
+  .background_border1 .foun_nam {
+    margin-top: -9px !important;
+  }
+}
+
+@media (min-width: 821px) and (max-width: 871px) {
+  .foun_info h1 {
+    font-size: 30px;
+  }
+
+  .foun_info .foun_nam {
+    margin-top: 8px !important;
+    font-size: 32px !important;
+  }
+
+  .foun_desc {
+    font-size: 11px !important;
+    line-height: 20px !important;
+    margin-top: -2px !important;
+  }
+
+  .background_border1 .foun_nam {
+    margin-top: -9px !important;
+  }
+
+  .foun_info .social_icon {
+    margin-top: -4px !important;
+  }
+}
+
+@media (min-width: 804px) and (max-width: 820px) {
+  .foun_info h1 {
+    font-size: 26px;
+  }
+
+  .foun_info .foun_nam {
+    margin-top: 2px !important;
+    font-size: 24px !important;
+  }
+
+  .foun_desc {
+    font-size: 11px !important;
+    line-height: 20px !important;
+    margin-top: -5px !important;
+  }
+
+  .background_border1 .foun_nam {
+    margin-top: -9px !important;
+  }
+
+  .foun_info .social_icon {
+    margin-top: -4px !important;
+  }
+}
+
+@media (min-width: 800px) and (max-width: 803px) {
+  .foun_info h1 {
+    font-size: 26px;
+  }
+
+  .foun_info .foun_nam {
+    margin-top: -2px !important;
+    font-size: 24px !important;
+  }
+
+  .foun_desc {
+    font-size: 11px !important;
+    line-height: 20px !important;
+    margin-top: -8px !important;
+  }
+
+  .background_border1 .foun_nam {
+    margin-top: -14px !important;
+  }
+
+  .foun_info .social_icon {
+    margin-top: -14px !important;
+  }
+}
